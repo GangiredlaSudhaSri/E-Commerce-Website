@@ -1,0 +1,22 @@
+
+.container {
+    text-align: center;
+}
+.product-title {
+    width: 500px;
+    margin: 20px;
+    padding: 20px ;
+    border: 2px solid black;
+}
+.product-image {
+    display: inline-block;
+}
+.product-discription {
+    display: inline-block;
+}
+.product-image {
+    float: right;
+}
+.product-image img {
+    width: 100px;
+}
